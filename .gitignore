@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore R and jupyter 
+.ipynb_checkpoints
+
+# Ignore node_modules folder
+archive
+team
